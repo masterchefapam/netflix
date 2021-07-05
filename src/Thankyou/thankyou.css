@@ -1,0 +1,36 @@
+.thankyou {
+    display: flex;
+    justify-content: center;
+    height: calc(100vh);
+}
+
+.thankyou__card {
+    width: 600px;
+    height: 500px;
+    background-color: rgba(171, 235, 255, 0.8);
+    color: white;
+    font-family: 'Limelight', cursive;
+    font-size: 44px;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 70px;
+}
+
+.thankyou__card p {
+    color: red;
+}
+
+.red {
+    color: black;
+}
+.white
+ {
+     color: red;
+ }
+
+ .logoThankyou {
+     height: 100%;
+     width: 100%;
+     object-fit: contain;
+     cursor: pointer;
+ }
